@@ -48,7 +48,7 @@ public class Main {
         //System.out.println(m.group(2));
         ArrayVectorImpl[] sd=new ArrayVectorImpl[4];
         DiffBuilder dfgh=new DiffBuilder(new Object(),new Object(),new ToStringStyle());
-        System.out.println();
+        System.out.println(m.matches());
 
 
 
